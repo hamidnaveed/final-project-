@@ -1,2 +1,3 @@
 # final-project-
-this is my final project relevant to my course 
+This is my final project relevant to my course 
+powerpoint.word,excel and canva
